@@ -1,0 +1,42 @@
+:host {
+  display: block;
+  max-width: 700px;
+  margin: 0 auto;
+  padding: 20px;
+  font-family: Arial, sans-serif;
+  color: #333;
+}
+
+h1 {
+  margin-bottom: 0;
+  text-transform: uppercase;
+}
+
+h2 {
+  margin-top: 5px;
+  color: #777;
+  font-weight: normal;
+}
+
+article {
+  border: 1px solid #ddd;
+  border-radius: 8px;
+  padding: 15px;
+  margin-bottom: 15px;
+  background-color: #fafafa;
+}
+
+h3 {
+  margin: 10px 0;
+  font-size: 18px;
+}
+
+p {
+  margin: 5px 0;
+}
+
+img {
+  width: 100px;
+  height: 120px;
+  object-fit: contain;
+}
